@@ -10,7 +10,7 @@
 
 ## 💻 Projeto
 
-igniteshoesapp
+igniteshoesapp - pish notification
 
 ## 📝 Licença
 
